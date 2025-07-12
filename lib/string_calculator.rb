@@ -12,3 +12,6 @@ class StringCalculator
     nums.sum
   end
 end
+
+# string_calculator_object = StringCalculator.new
+# puts string_calculator_object.add("1,2,3,4") # => 10
