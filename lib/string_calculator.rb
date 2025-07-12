@@ -1,3 +1,6 @@
+# frozen_string_literal: true
+
+# String Calculator Controller
 class StringCalculator
   def add(numbers)
     return 0 if numbers.strip.empty?
